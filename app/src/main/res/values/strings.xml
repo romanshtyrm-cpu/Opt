@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zae</string>
+    <string name="start">Start Sender</string>
+    <string name="stop">Stop Sender</string>
+</resources>
